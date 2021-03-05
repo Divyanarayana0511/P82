@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-image: url(./bg1.jpg);
+    background-repeat: no-repeat;
+    s
+
+}
+#Mypaint{
+    background-color: white;
+    border-style: ridge;
+    border-color: grey;
+}
+.box{
+    display: inline-table;
+    
+}
